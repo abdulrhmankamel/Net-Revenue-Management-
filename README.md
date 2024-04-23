@@ -8,4 +8,4 @@ tasks:
 4.	Forecasted annual growth by integrating NRM pillars into a cohesive financial model, demonstrating proficiency in predictive analytics and scenario planning.
 5.	Leveraged Excel's data analysis tools to interpret complex datasets, providing actionable insights for revenue growth and business decision-making.
 
-NOte: Analysis Process located in waterfall
+NOte: Analysis Process located in waterfall Excel file.
